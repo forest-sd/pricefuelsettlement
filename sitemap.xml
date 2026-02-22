@@ -17,4 +17,34 @@
   <url><loc>https://pricefuelsettlement.com/sitemap.html</loc><lastmod>2026-02-21</lastmod></url>
   <url><loc>https://pricefuelsettlement.com/feed.xml</loc><lastmod>2026-02-21</lastmod></url>
   <url><loc>https://pricefuelsettlement.com/robots.txt</loc><lastmod>2026-02-21</lastmod></url>
+  <url>
+    <loc>https://pricefuelsettlement.com/blog/consumer-advocacy-organizations-making-a-difference/</loc>
+    <lastmod>2026-02-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://pricefuelsettlement.com/blog/digital-consumer-protection-emerging-legal-frameworks/</loc>
+    <lastmod>2026-02-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://pricefuelsettlement.com/blog/fuel-price-manipulation-historical-cases-and-outcomes/</loc>
+    <lastmod>2026-02-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://pricefuelsettlement.com/blog/the-economics-of-class-action-litigation/</loc>
+    <lastmod>2026-02-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://pricefuelsettlement.com/blog/understanding-class-action-settlements-your-rights/</loc>
+    <lastmod>2026-02-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
 </urlset>
