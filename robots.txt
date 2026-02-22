@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://pricefuelsettlement.pages.dev/sitemap.xml
+Sitemap: https://pricefuelsettlement.com/sitemap.xml
